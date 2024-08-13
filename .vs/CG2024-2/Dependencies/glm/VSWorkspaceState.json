@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Computador Local": [
+      "CG2024-2\\Dependencies\\glm\\out\\build\\x64-Debug",
+      "CG2024-2\\Dependencies\\glm\\out\\install\\x64-Debug"
+    ]
+  }
+}

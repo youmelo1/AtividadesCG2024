@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "cg2024-2\\dependencies\\glm"
+}
